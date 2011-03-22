@@ -1,0 +1,61 @@
+# Particular to this project
+war/
+*.launch
+*.cache.html
+*.cache.png
+# src/main/webapp/eventreminder/ contains auto-generated JavaScript
+src/main/webapp/eventreminder/
+*enter.xml
+
+# Compiled Source
+*.class
+*.pyc
+*.o
+*.so
+
+# Packages
+*.7z
+*.dmg
+*.gz
+*.tar
+*.iso
+*.zip
+*.jar
+*.war
+*.ear
+
+# Logs and Databases tmp files
+*.log
+*.sqlite
+*~
+*.bak
+*.csv
+*.CSV
+*.pdf
+*.dat
+
+# Directories
+bin/
+classes/
+lib/
+build/
+log/
+logs/
+tmp/
+temp/
+.svn/
+.cvs/
+target/
+
+# text-editor/IDE specific
+*.swp
+*.project
+*.classpath
+*.settings
+*hosted.html
+*cache.html
+.settings/
+.idea/
+*.iml
+*.iws
+*.ipr
