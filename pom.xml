@@ -42,8 +42,8 @@
     </dependencies>
 
     <scm>
-        <connection>scm:git:git@github.com:fuzzylollipop/sqlck.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com:fuzzylollipop/sqlck.git</developerConnection>
+        <connection>scm:git:git://git@github.com:fuzzylollipop/sqlck.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com/fuzzylollipop/sqlck.git</developerConnection>
         <url>https://github.com/fuzzylollipop/sqlck</url>
     </scm>
 
